@@ -1,7 +1,7 @@
 // Coding Challenge 03a
 
 // Customer Records
-let customer = [
+let customers = [
     {
         name: "Maria",
         email: "Maria.Gonzalez@gmail",
