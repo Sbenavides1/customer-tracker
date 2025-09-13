@@ -18,5 +18,9 @@ let customers = [
         purchases: ["HOODIE"]
     }
 ];
-
 // add/remove data 
+customers.push({
+    name: "Sofia Benavides", 
+    email: "Sofia.Benavides@gmail", 
+    purchases: ["HOODIE", "SHIRT", "SHOES", "HAT"]
+});
