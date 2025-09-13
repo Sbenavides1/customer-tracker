@@ -18,9 +18,12 @@ let customers = [
         purchases: ["HOODIE"]
     }
 ];
-// add/remove data 
+//Create new customer
 customers.push({
     name: "Sofia Benavides", 
     email: "Sofia.Benavides@gmail", 
     purchases: ["HOODIE", "SHIRT", "SHOES", "HAT"]
 });
+// Add/ Remove Email and purchases
+customers[0].email = "Maria.Gonzalez@gmail.com"
+customers[1].purchases.push("SHOES");
