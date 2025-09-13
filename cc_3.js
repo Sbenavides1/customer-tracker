@@ -3,20 +3,20 @@
 // Customer Records
 let customers = [
     {
-        name: "Maria",
+        name: "Maria Gomzalez",
         email: "Maria.Gonzalez@gmail",
         purchases: ["HOODIE", "SHIRT", "SHOES"]
     },
     {
-        name: "Ashley", 
+        name: "Ashley Wilson", 
         email: "Ashley.Wilson@gmail", 
         purchases: ["HOODIE", "SHIRT"]
     },
     {
-        name: "John", 
+        name: "John Martinez", 
         email: "John.Martinez@gmail", 
         purchases: ["HOODIE"]
     }
-]
+];
 
 // add/remove data 
